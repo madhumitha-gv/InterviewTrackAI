@@ -1,0 +1,24 @@
+services:
+  app:
+    build:
+      context: .
+      target: demo
+    ports:
+      - "127.0.0.1:${APP_PORT:-8501}:8501"
+    environment:
+      EMBEDDINGS_ENABLED: "false"
+      LLM_REVIEW_ENABLED: "false"
+      INTERVIEWTRACK_DATA_DIR: /app/data
+      HF_HOME: /app/model-cache
+      GMAIL_MAX_MESSAGES: "200"
+    volumes:
+      - app-data:/app/data
+      - model-cache:/app/model-cache
+    init: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  app-data:
+  model-cache:

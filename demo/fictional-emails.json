@@ -1,0 +1,734 @@
+[
+  {
+    "gmail_id": "fictional-1",
+    "thread_id": "fictional-juniper",
+    "rfc_message_id": "<fictional-1@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@juniperlabs.example",
+    "from_name": "Morgan Vale",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "AI Engineer screening interview at Juniper Labs",
+    "date": "2025-10-01T09:00:00Z",
+    "snippet": "Hi Avery, We would like to invite you to a screening call for the AI Engineer role at Juniper Labs. Requisition JL-8101.",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe would like to invite you to a screening call for the AI Engineer role at Juniper Labs. Requisition JL-8101.\nRole: AI Engineer\nCompany: Juniper Labs\nRegards, Morgan Vale",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-2",
+    "thread_id": "fictional-juniper",
+    "rfc_message_id": "<fictional-2@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "talent@juniperlabs.example"
+    ],
+    "cc_addrs": [],
+    "subject": "Re: AI Engineer screening interview at Juniper Labs",
+    "date": "2025-10-02T09:00:00Z",
+    "snippet": "Hi Avery, Thank you for the invitation. Could you share the interview format and the next steps? Requisition JL-8101. Ro",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nThank you for the invitation. Could you share the interview format and the next steps? Requisition JL-8101.\nRole: AI Engineer\nCompany: Juniper Labs\nRegards, Morgan Vale",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-3",
+    "thread_id": "fictional-thread-3",
+    "rfc_message_id": "<fictional-3@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Phone screen for Data Engineer at Harbor Energy",
+    "date": "2025-10-03T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a screening call for the Data Engineer role at Harbor Energy. Requisition HE-8202. Role: Data",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a screening call for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-4",
+    "thread_id": "fictional-thread-4",
+    "rfc_message_id": "<fictional-4@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Technical interview for Data Engineer at Harbor Energy",
+    "date": "2025-10-04T09:00:00Z",
+    "snippet": "Hi Avery, We would like to schedule your technical interview for the Data Engineer role at Harbor Energy. Requisition HE",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe would like to schedule your technical interview for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-5",
+    "thread_id": "fictional-thread-5",
+    "rfc_message_id": "<fictional-5@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Take-home assignment for Data Engineer at Harbor Energy",
+    "date": "2025-10-05T09:00:00Z",
+    "snippet": "Hi Avery, Please complete the take-home assignment for the Data Engineer role at Harbor Energy. Requisition HE-8202. Rol",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nPlease complete the take-home assignment for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-6",
+    "thread_id": "fictional-thread-6",
+    "rfc_message_id": "<fictional-6@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "talent@harborenergy.example"
+    ],
+    "cc_addrs": [],
+    "subject": "Assessment submission for Data Engineer at Harbor Energy",
+    "date": "2025-10-06T09:00:00Z",
+    "snippet": "Hi Avery, I have submitted my assessment for the Data Engineer role at Harbor Energy. Requisition HE-8202. Role: Data En",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nI have submitted my assessment for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-7",
+    "thread_id": "fictional-thread-7",
+    "rfc_message_id": "<fictional-7@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Final interview for Data Engineer at Harbor Energy",
+    "date": "2025-10-07T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to the final interview for the Data Engineer role at Harbor Energy. Requisition HE-8202. Role: D",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to the final interview for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-8",
+    "thread_id": "fictional-thread-8",
+    "rfc_message_id": "<fictional-8@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "talent@harborenergy.example"
+    ],
+    "cc_addrs": [],
+    "subject": "Following up after our interview for Data Engineer at Harbor Energy",
+    "date": "2025-10-08T09:00:00Z",
+    "snippet": "Hi Avery, I wanted to follow up after our final interview for the Data Engineer role at Harbor Energy. Requisition HE-82",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nI wanted to follow up after our final interview for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-9",
+    "thread_id": "fictional-thread-9",
+    "rfc_message_id": "<fictional-9@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Offer letter for Data Engineer at Harbor Energy",
+    "date": "2025-10-09T09:00:00Z",
+    "snippet": "Hi Avery, We are pleased to extend you an offer for the Data Engineer role at Harbor Energy. Requisition HE-8202. Role: ",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe are pleased to extend you an offer for the Data Engineer role at Harbor Energy. Requisition HE-8202.\nRole: Data Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-10",
+    "thread_id": "fictional-thread-10",
+    "rfc_message_id": "<fictional-10@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Screening interview for Platform Engineer at Harbor Energy",
+    "date": "2025-10-10T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a screening call for the Platform Engineer role at Harbor Energy. Requisition HE-8303. Role: ",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a screening call for the Platform Engineer role at Harbor Energy. Requisition HE-8303.\nRole: Platform Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-11",
+    "thread_id": "fictional-thread-10",
+    "rfc_message_id": "<fictional-11@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@harborenergy.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Update on Platform Engineer at Harbor Energy",
+    "date": "2025-10-11T09:00:00Z",
+    "snippet": "Hi Avery, Thank you for interviewing. We have decided not to move forward with your application for the Platform Enginee",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nThank you for interviewing. We have decided not to move forward with your application for the Platform Engineer role at Harbor Energy. Requisition HE-8303.\nRole: Platform Engineer\nCompany: Harbor Energy\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-12",
+    "thread_id": "fictional-thread-12",
+    "rfc_message_id": "<fictional-12@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@careerdigest.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Jobs you may like: new opportunities",
+    "date": "2025-10-12T09:00:00Z",
+    "snippet": "Hi Avery, Job alert: recommended jobs matching your profile. Unsubscribe. Role: Software Engineer Company: Career Digest",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nJob alert: recommended jobs matching your profile. Unsubscribe.\nRole: Software Engineer\nCompany: Career Digest\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-13",
+    "thread_id": "fictional-thread-13",
+    "rfc_message_id": "<fictional-13@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "talent@careerdigest.example",
+    "from_name": "Riley Brooks",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Your application was received",
+    "date": "2025-10-13T09:00:00Z",
+    "snippet": "Hi Avery, Thank you for applying. We have received your application and will review your qualifications. Role: Data Scie",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nThank you for applying. We have received your application and will review your qualifications.\nRole: Data Scientist\nCompany: Career Digest\nRegards, Riley Brooks",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-14",
+    "thread_id": "fictional-thread-14",
+    "rfc_message_id": "<fictional-14@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Screening invitation \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-04T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a screening call for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-940",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a screening call for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-15",
+    "thread_id": "fictional-thread-15",
+    "rfc_message_id": "<fictional-15@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "sasha.reed@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Screening completed \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-05T09:00:00Z",
+    "snippet": "Hi Avery, Thank you for completing your screening interview. We would like to schedule a technical interview for the Mac",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nThank you for completing your screening interview. We would like to schedule a technical interview for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-16",
+    "thread_id": "fictional-thread-16",
+    "rfc_message_id": "<fictional-16@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Technical interview round 1 \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-06T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a technical interview, round one for the Machine Learning Engineer role at Lumen Robotics. Re",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a technical interview, round one for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-17",
+    "thread_id": "fictional-thread-17",
+    "rfc_message_id": "<fictional-17@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "devon.park@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Technical interview round 2 \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-07T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a technical interview, round two focused on system design for the Machine Learning Engineer r",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a technical interview, round two focused on system design for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-18",
+    "thread_id": "fictional-thread-18",
+    "rfc_message_id": "<fictional-18@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Take-home assignment \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-08T09:00:00Z",
+    "snippet": "Hi Avery, Please complete the take-home assignment for the Machine Learning Engineer role at Lumen Robotics. Requisition",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nPlease complete the take-home assignment for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-19",
+    "thread_id": "fictional-thread-19",
+    "rfc_message_id": "<fictional-19@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "elena.ward@clearpathstaffing.example"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Assessment submission \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-09T09:00:00Z",
+    "snippet": "Hi Avery, I have submitted my completed assessment for the Machine Learning Engineer role at Lumen Robotics. Requisition",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nI have submitted my completed assessment for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-20",
+    "thread_id": "fictional-thread-20",
+    "rfc_message_id": "<fictional-20@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "people@lumenrobotics.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Final interview \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-10T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to the final interview with the hiring manager for the Machine Learning Engineer role at Lumen R",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to the final interview with the hiring manager for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-21",
+    "thread_id": "fictional-thread-21",
+    "rfc_message_id": "<fictional-21@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "elena.ward@clearpathstaffing.example"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Following up after our interview \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-11T09:00:00Z",
+    "snippet": "Hi Avery, I wanted to follow up after our final interview for the Machine Learning Engineer role at Lumen Robotics. Requ",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nI wanted to follow up after our final interview for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-22",
+    "thread_id": "fictional-thread-22",
+    "rfc_message_id": "<fictional-22@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "people@lumenrobotics.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Offer letter \u2014 Machine Learning Engineer at Lumen Robotics",
+    "date": "2025-10-12T09:00:00Z",
+    "snippet": "Hi Avery, We are pleased to extend you an offer for the Machine Learning Engineer role at Lumen Robotics. Requisition LR",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe are pleased to extend you an offer for the Machine Learning Engineer role at Lumen Robotics. Requisition LR-9401.\nCompany: Lumen Robotics\nPosition: Machine Learning Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-23",
+    "thread_id": "fictional-thread-23",
+    "rfc_message_id": "<fictional-23@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Screening invitation \u2014 Backend Engineer at Lumen Robotics",
+    "date": "2025-10-13T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a screening call for the Backend Engineer role at Lumen Robotics. Requisition LR-9402. Compan",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a screening call for the Backend Engineer role at Lumen Robotics. Requisition LR-9402.\nCompany: Lumen Robotics\nPosition: Backend Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-24",
+    "thread_id": "fictional-thread-24",
+    "rfc_message_id": "<fictional-24@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "devon.park@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Technical interview \u2014 Backend Engineer at Lumen Robotics",
+    "date": "2025-10-14T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a technical interview for the Backend Engineer role at Lumen Robotics. Requisition LR-9402. C",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a technical interview for the Backend Engineer role at Lumen Robotics. Requisition LR-9402.\nCompany: Lumen Robotics\nPosition: Backend Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-25",
+    "thread_id": "fictional-thread-24",
+    "rfc_message_id": "<fictional-25@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Application update \u2014 Backend Engineer at Lumen Robotics",
+    "date": "2025-10-15T09:00:00Z",
+    "snippet": "Hi Avery, After your interview, we have decided not to move forward with your application for the Backend Engineer role ",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nAfter your interview, we have decided not to move forward with your application for the Backend Engineer role at Lumen Robotics. Requisition LR-9402.\nCompany: Lumen Robotics\nPosition: Backend Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-26",
+    "thread_id": "fictional-thread-26",
+    "rfc_message_id": "<fictional-26@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Screening invitation \u2014 Data Engineer at Summit Analytics",
+    "date": "2025-10-16T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a screening call for the Data Engineer role at Summit Analytics. Requisition SA-9501. Company",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a screening call for the Data Engineer role at Summit Analytics. Requisition SA-9501.\nCompany: Summit Analytics\nPosition: Data Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-27",
+    "thread_id": "fictional-thread-27",
+    "rfc_message_id": "<fictional-27@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "elena.ward@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Technical interview round 1 \u2014 Data Engineer at Summit Analytics",
+    "date": "2025-10-17T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a technical interview, round one for the Data Engineer role at Summit Analytics. Requisition ",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a technical interview, round one for the Data Engineer role at Summit Analytics. Requisition SA-9501.\nCompany: Summit Analytics\nPosition: Data Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-28",
+    "thread_id": "fictional-thread-28",
+    "rfc_message_id": "<fictional-28@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "sasha.reed@clearpathstaffing.example",
+    "from_name": "Elena Ward",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Technical interview round 2 \u2014 Data Engineer at Summit Analytics",
+    "date": "2025-10-18T09:00:00Z",
+    "snippet": "Hi Avery, We invite you to a technical interview, round two for the Data Engineer role at Summit Analytics. Requisition ",
+    "labels": [
+      "INBOX"
+    ],
+    "body_text": "Hi Avery,\nWe invite you to a technical interview, round two for the Data Engineer role at Summit Analytics. Requisition SA-9501.\nCompany: Summit Analytics\nPosition: Data Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-29",
+    "thread_id": "fictional-thread-29",
+    "rfc_message_id": "<fictional-29@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "avery.quinn.interviewtrack.demo@gmail.com",
+    "from_name": "Avery Quinn",
+    "to_addrs": [
+      "elena.ward@clearpathstaffing.example"
+    ],
+    "cc_addrs": [
+      "sasha.reed@clearpathstaffing.example",
+      "devon.park@clearpathstaffing.example"
+    ],
+    "subject": "Following up after our interview \u2014 Data Engineer at Summit Analytics",
+    "date": "2025-10-19T09:00:00Z",
+    "snippet": "Hi Avery, I wanted to follow up after our technical interview for the Data Engineer role at Summit Analytics. Requisitio",
+    "labels": [
+      "SENT"
+    ],
+    "body_text": "Hi Avery,\nI wanted to follow up after our technical interview for the Data Engineer role at Summit Analytics. Requisition SA-9501.\nCompany: Summit Analytics\nPosition: Data Engineer\nSasha Reed and Devon Park are copied for interview coordination.\nRegards, Elena Ward\nClearpath Staffing",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-30",
+    "thread_id": "fictional-thread-30",
+    "rfc_message_id": "<fictional-30@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "ads@careerbulletin.example",
+    "from_name": "Career Bulletin",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Jobs you may like: interview opportunities",
+    "date": "2025-10-20T09:00:00Z",
+    "snippet": "Job alert: recommended jobs matching your profile. Unsubscribe from this weekly digest.",
+    "labels": [
+      "INBOX",
+      "CATEGORY_PROMOTIONS"
+    ],
+    "body_text": "Job alert: recommended jobs matching your profile. Unsubscribe from this weekly digest.",
+    "body_html": "",
+    "body_fetched": true
+  },
+  {
+    "gmail_id": "fictional-31",
+    "thread_id": "fictional-thread-31",
+    "rfc_message_id": "<fictional-31@mbx.example>",
+    "in_reply_to": null,
+    "references": [],
+    "from_addr": "ads@careerbulletin.example",
+    "from_name": "Career Bulletin",
+    "to_addrs": [
+      "avery.quinn.interviewtrack.demo@gmail.com"
+    ],
+    "cc_addrs": [],
+    "subject": "Save 30 percent on interview coaching",
+    "date": "2025-10-21T09:00:00Z",
+    "snippet": "Special offer: interview coaching sale. Shop now and unsubscribe anytime.",
+    "labels": [
+      "INBOX",
+      "CATEGORY_PROMOTIONS"
+    ],
+    "body_text": "Special offer: interview coaching sale. Shop now and unsubscribe anytime.",
+    "body_html": "",
+    "body_fetched": true
+  }
+]

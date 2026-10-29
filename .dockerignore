@@ -1,0 +1,23 @@
+# Allowlist: personal files can never enter the build context.
+**
+!Dockerfile
+!requirements*.txt
+!app.py
+!pytest.ini
+!.env.example
+!.streamlit/
+!.streamlit/config.toml
+!interviewtrack/
+!interviewtrack/**
+!scripts/
+!scripts/**
+!tests/
+!tests/**
+**/__pycache__/**
+**/*.pyc
+**/token*.json
+**/*secret*.json
+**/*.db
+
+!demo/
+!demo/fictional-inbox.db

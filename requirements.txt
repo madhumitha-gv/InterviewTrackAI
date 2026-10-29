@@ -1,0 +1,4 @@
+-r requirements-core.txt
+# Full local semantic mode; CPU in the Docker neural target.
+sentence-transformers>=3,<6
+torch>=2.2,<3
