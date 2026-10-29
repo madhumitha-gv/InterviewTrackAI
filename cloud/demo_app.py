@@ -20,7 +20,29 @@ from interviewtrack.interview_policy import interview_bucket
 from interviewtrack.service import InterviewTrackService, search_applications, sort_applications
 
 
+def landing():
+    st.title('📬 InterviewTrack AI')
+    st.caption('Keep screening invitations and interview next steps from getting buried in your inbox.')
+    demo, gmail = st.columns(2, gap='large')
+    with demo:
+        st.subheader('Demo')
+        st.write('Explore fictional interview journeys, multiple rounds, staffing handoffs, offers and rejections.')
+        st.caption('No Gmail account or credentials needed.')
+        if st.button('Start Demo', type='primary', use_container_width=True):
+            st.session_state['_demo_started'] = True
+            st.rerun()
+    with gmail:
+        st.subheader('Gmail Access')
+        st.info('Gmail testing is available to approved Google OAuth test users.')
+        st.write('Ask the administrator to add your Gmail address as a test user in the Google Cloud OAuth consent configuration.')
+        st.caption('After approval, follow the Gmail setup instructions to authorize your account locally. This public app does not connect to real Gmail accounts.')
+        st.link_button('View Gmail setup', 'https://github.com/madhumitha-gv/InterviewTrackAI#gmail-mode-setup', use_container_width=True)
+
+
 def main():
+    if not st.session_state.get('_demo_started'):
+        landing()
+        return
     if '_hosted_service' not in st.session_state:
         # Do not cache a mutable database across visitors or use the bundled DB.
         svc = InterviewTrackService(db=Database(':memory:'), backend=get_backend(force_hashed=True))
@@ -42,6 +64,11 @@ def main():
             svc.load_demo_data(profile_key='reviewer')
             st.rerun()
         if st.button('Reset demo', use_container_width=True):
+            svc.db.close()
+            st.session_state.clear()
+            st.session_state['_demo_started'] = True
+            st.rerun()
+        if st.button('Back to start', use_container_width=True):
             svc.db.close()
             st.session_state.clear()
             st.rerun()
