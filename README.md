@@ -248,7 +248,7 @@ python -m interviewtrack.auth --account your.address@gmail.com --status
 
 Start Streamlit, select the authorized account in Gmail Mode, and synchronize the mailbox. Authorization is performed through the terminal and browser; there is no frontend Google sign-in button. The reviewer Docker configuration does not mount Gmail credentials.
 
-The app uses read-only Gmail access. Messages, derived timelines, and authorization files stay in the local runtime storage. Credentials and real databases must remain outside version control. The only database intentionally included in this repository is the fictional demo database.
+The app uses read-only Gmail access. Messages, derived timelines, and authorization files stay in the local runtime storage. Credentials and real databases must remain outside version control. The only database intentionally included in this repository is the synthetic demo database.
 
 ## Limits
 
