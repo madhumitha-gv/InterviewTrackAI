@@ -6,6 +6,36 @@ I built this because important invitations and next steps can be missed among jo
 
 The dashboard has two views: **Active** and **Rejected**. An offer appears under Active with the stage **Offer**. Users can open a timeline, read the supporting email, see copied recipients, and review or correct uncertain associations.
 
+## Live demo — synthetic data
+
+**[Open the deployed Streamlit demo](https://interviewtrack-ai-demo.streamlit.app/)**
+
+The public demo uses **synthetic email data only**. No Gmail login, OAuth credentials, API key, or installation is needed. The first screen offers **Demo** and **Gmail Access**. Click **Start Demo** to explore six fictional interview journeys: four Active applications (including two Offers) and two Rejected applications.
+
+Start with **Lumen Robotics — Machine Learning Engineer** for the complete screening-to-offer journey, including multiple technical rounds and staffing specialists in CC. Each visitor gets a separate temporary SQLite database; corrections affect only that browser session. **Reset demo** restores the original examples.
+
+The **Gmail Access** panel explains how to ask the administrator to add your email as a Google OAuth test user. After approval, real Gmail authorization is completed locally using the setup instructions below. The public demo does not connect to real Gmail accounts.
+
+### Synthetic data included in the project
+
+| File | Contents and purpose |
+| --- | --- |
+| [`demo/fictional-emails.json`](demo/fictional-emails.json) | Readable export of all 31 synthetic input emails, including sender, To, CC, subject, date, body and thread IDs. |
+| [`demo/fictional-inbox.db`](demo/fictional-inbox.db) | Generated SQLite snapshot: 29 stored messages after retrieval filtering, plus reconstructed applications and events. No OAuth tokens or real mailbox data. |
+| [`demo/SCENARIOS.md`](demo/SCENARIOS.md) | The six scenarios and their expected outcomes, including job alerts and advertisements that stay out of interview cards. |
+| [`interviewtrack/fixtures/mailboxes.py`](interviewtrack/fixtures/mailboxes.py) | Source fixture definitions. `PROFILE_REVIEWER` supplies the synthetic messages used by the hosted demo. |
+
+The hosted demo runs the Python reconstruction pipeline from these source fixtures on each new session. The JSON export and bundled SQLite snapshot are included for inspection; neither needs to be uploaded by the reviewer.
+
+### Streamlit deployment configuration
+
+- Repository: `madhumitha-gv/InterviewTrackAI`
+- Branch: `main`
+- Main file: `cloud/demo_app.py`
+- Python: `3.11`
+- Dependencies: `cloud/requirements.txt`
+- Secrets: none
+
 ## How the logic works
 
 ### 1. Read and normalize emails
@@ -227,3 +257,4 @@ The detection rules primarily cover English recruiting language. Unfamiliar word
 ## Repository
 
 [InterviewTrackAI on GitHub](https://github.com/madhumitha-gv/InterviewTrackAI)
+
